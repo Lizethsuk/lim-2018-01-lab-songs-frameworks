@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(48, 32, 48);
+  
+
+}
+
+*{
+  padding: 0;
+  margin: auto
+}
+
+h1{
+  font-size: 45px;
+  color: white;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+}
+
+.tarjeta{
+  background-color: rgb(211, 202, 211);
+  padding-bottom: 0px;
+
+  width: 50%;
+  align-items: center;
+  /* justify-content: center */
+}
