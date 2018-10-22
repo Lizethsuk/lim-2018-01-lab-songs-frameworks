@@ -1,5 +1,7 @@
 body {
-  background-color: rgb(48, 32, 48);
+  background-color: rgb(209, 247, 39);
+  color: black;
+  text-align: center;
   
 
 }
@@ -16,8 +18,8 @@ h1{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
 }
 
-.tarjeta{
-  background-color: rgb(211, 202, 211);
+.Carousel.Item{
+  background-color: rgb(211, 202, 0);
   padding-bottom: 0px;
 
   width: 50%;

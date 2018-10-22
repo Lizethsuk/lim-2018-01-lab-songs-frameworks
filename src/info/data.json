@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Katy Perry",
+        "index": 0,
+        "image": "https://lastfm-img2.akamaized.net/i/u/300x300/082fc339555f4b58cbe5c3fbacf93934.png",
+        "canciones":"https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=Katy+Perry&api_key=22bf14aab4875164b7d77ed04d0ef52f&format=json"
+    },
+    {
+        "name": "Adele",
+        "index": 1,
+        "image": "https://lastfm-img2.akamaized.net/i/u/300x300/5ed371a8b6d03258d597eb661805baee.png",
+        "canciones":"https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=Adele&api_key=22bf14aab4875164b7d77ed04d0ef52f&format=json"
+
+    },
+    {
+        "name": "Backstreet Boys",
+        "index": 2,
+        "image": "https://lastfm-img2.akamaized.net/i/u/300x300/8a1d7aaefcd8f58115f0519423375688.png",
+        "canciones":"https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=Backstreet+Boys&api_key=22bf14aab4875164b7d77ed04d0ef52f&format=json"
+
+    },
+    {
+        "name": "Aleks Syntek",
+        "index": 3,
+        "image": "https://lastfm-img2.akamaized.net/i/u/300x300/66c8e01c6d44332187827d4a6679f3ce.png",
+        "canciones":"https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=Aleks+Syntek&api_key=22bf14aab4875164b7d77ed04d0ef52f&format=json"
+
+    },
+    {
+        "name": "Erreway",
+        "index": 4,
+        "image": "https://lastfm-img2.akamaized.net/i/u/300x300/1998a133f9a9cbfab498b62bec629d34.png",
+        "canciones":"https://ws.audioscrobbler.com/2.0/?method=artist.gettoptracks&artist=Erreway&api_key=22bf14aab4875164b7d77ed04d0ef52f&format=json"
+
+    }
+]
